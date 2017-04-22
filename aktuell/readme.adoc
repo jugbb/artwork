@@ -1,0 +1,4 @@
+= Aktuelles Logo und Grafiken
+
+Dieses Verzeichnis enthält die aktuellen Varianten des Logos
+und dazugehörige Grafiken.
