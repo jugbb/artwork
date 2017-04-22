@@ -1,6 +1,10 @@
 *~
 
 # Intellij IDEA Zeug
+/.idea
 *.ipr
 *.iws
 *.iml
+
+# MacOS bedeutet
+.DS_Store
