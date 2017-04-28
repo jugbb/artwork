@@ -1,0 +1,5 @@
+= Font im Logo der JUG Berlin-Brandenburg
+
+Im Logo der JUG wird als Font *Roboto Mono Bold* verwendet.
+Der Font wird von Google unter der ASL 2.0 unter
+https://fonts.google.com/specimen/Roboto+Mono bereitgestellt.
