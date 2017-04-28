@@ -2,3 +2,5 @@
 
 Entwürfe für ein neues Logo der JUG, um das alte Logo
 der JUG abzulösen.
+
+link:verwendeter-font.adoc[Informationen zum verwendeten Font]
