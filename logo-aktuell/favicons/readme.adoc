@@ -1,0 +1,9 @@
+= Favicons für das JUG-Blog
+
+Die Icons werden alle per Shell-Skript in den aktuell unterstützten Formaten erzeugt.
+Hierfür muß ImageMagic installiert sein.
+
+    $ bash ./generate-favicons.bash
+
+Das Skript legt auch noch die Datei `header-snippet.html` an, die die benötigten Link-Elemente
+zum Kopieren in die Templates für das Blog enthält.
