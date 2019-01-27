@@ -8,3 +8,11 @@
 
 # MacOS bedeutet
 .DS_Store
+
+# Generierte Grafiken
+
+/logo-aktuell/favicons/favicon*
+/logo-aktuell/favicons/apple-touch-icon-*
+/logo-aktuell/favicons/*.html
+
+
